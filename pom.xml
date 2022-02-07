@@ -38,7 +38,7 @@
 						<username>sudheerreddy7m</username>
 						<password>Msdrjsdk@007</password>
 						<environment>Sandbox</environment>
-						<applicationName>sample</applicationName>
+						<applicationName>sample-1</applicationName>
 						<businessGroup>Mulesoft</businessGroup>
 						<workerType>Micro</workerType>
 						<workers>1</workers>
